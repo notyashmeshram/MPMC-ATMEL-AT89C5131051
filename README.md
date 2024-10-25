@@ -34,7 +34,7 @@ These labs transition into the 8051 microcontroller, focusing on:
 ## How to Use
 
 1. **8085 Microprocessor Labs (1-4)**:
-   - Open the files in an 8085 compiler or IDE such as the [8085 Simulator IDE](http://8085simulator.weebly.com/).
+   - Open the files in an 8085 compiler or IDE such as the [8085 Simulator IDE](https://github.com/8085simulator/8085simulator/raw/master/dist/8085Compiler.jar).
    - Compile and run the assembly files to observe the behavior of the code.
 
 2. **8051 Microcontroller Labs (5-10)**:
